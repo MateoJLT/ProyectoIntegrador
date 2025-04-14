@@ -65,7 +65,7 @@ public class Persona {
     // Metodo para mostrar la informacion de la persona
 
     public void mostrarInformacion() {
-        System.out.println("Nombre: " + nombre);
+        System.out.println("Nombre completo : " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Cedula: " + cedula);
         System.out.println("Actividades: " + actividades);
